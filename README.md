@@ -47,7 +47,7 @@ System for checking compatibility between mobile spare parts.
 
 <p align="center">
   <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=mahmmoudeid&show_icons=true&theme=github_dark&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=mahmmoudeid&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000"
   />
 </p>
 
@@ -59,7 +59,7 @@ System for checking compatibility between mobile spare parts.
 
 <p align="center">
   <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mahmmoudeid&layout=compact&theme=github_dark&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmmoudeid&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&langs_count=8"
   />
 </p>
 
