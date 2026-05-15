@@ -1,16 +1,73 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**mahmmoudeid/mahmmoudeid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋 I'm Mahmoud Eid
 
-Here are some ideas to get you started:
+### Full Stack Developer • Mobile Apps • Automation • Web Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Passionate about building apps, systems, bots and smart tools.
+
+🌍 Based in Egypt
+
+</div>
+
+---
+
+## 🚀 About Me
+
+- 📱 Building mobile and web applications  
+- 🤖 Developing Telegram bots & automation systems  
+- 🌐 Working on domain tools & DNS-related systems  
+- ⚡ Interested in SaaS, APIs and scalable systems  
+- 🧠 Always learning and building new ideas
+
+---
+
+## 🔥 Current Projects
+
+### ⏰ Learn The Clock App
+Interactive educational app for teaching children how to read time.
+
+### 🤖 Telegram Domain Checker Bot
+Bot for checking domains, DNS records and domain-related information.
+
+### 📱 Mobile Parts Compatibility System
+System for checking compatibility between mobile spare parts.
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,react,nodejs,php,js,ts,html,css,mysql,firebase,cloudflare,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahmmoudeid&show_icons=true&theme=transparent&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mahmmoudeid&theme=transparent&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmmoudeid&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+- Website: https://wpdynamo.com
+- GitHub: https://github.com/mahmmoudeid
+
+---
+
+<div align="center">
+
+### 🚀 Building cool things, one project at a time.
+
+</div>
