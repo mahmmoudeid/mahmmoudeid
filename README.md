@@ -46,15 +46,21 @@ System for checking compatibility between mobile spare parts.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahmmoudeid&show_icons=true&theme=transparent&hide_border=true" />
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=mahmmoudeid&show_icons=true&theme=github_dark&hide_border=true"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mahmmoudeid&theme=transparent&hide_border=true" />
+  <img 
+    src="https://streak-stats.demolab.com?user=mahmmoudeid&theme=github-dark&hide_border=true"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmmoudeid&layout=compact&theme=transparent&hide_border=true" />
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mahmmoudeid&layout=compact&theme=github_dark&hide_border=true"
+  />
 </p>
 
 ---
